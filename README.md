@@ -2,15 +2,13 @@
 
 ## Installation
 
-...
-
+```
 pip insatll Flask
 python app.py
+```
 
-...
+## Description
 
-##Description
-
-##Implementation
+## Implementation
 
 This project is implemented using Flask,and is a REST ALI for a store
